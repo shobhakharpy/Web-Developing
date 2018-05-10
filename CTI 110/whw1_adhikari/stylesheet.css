@@ -1,0 +1,18 @@
+body {
+	
+	
+	background-color:rgba(111,111,111,.5);
+	
+	
+}
+footer { background-color: #D2B48C;
+       font-size: medium;
+	   font-style: italic;
+	   text-align: center;
+	   padding-bottom: 10px;
+	   border-top: 2px #221811 solid;
+}
+h1 { padding-top: 45px;
+    padding-left: 220px;
+	font-size: 3em; 
+}
